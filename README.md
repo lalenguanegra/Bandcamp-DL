@@ -15,7 +15,7 @@ Try iOS Shortcut
 
 PowerShell
 
-[PowerSHell DEMO](https://www.youtube.com/watch?v=sfj-E6jebYg)
+[PowerShell DEMO](https://www.youtube.com/watch?v=sfj-E6jebYg)
 
 ![PS1](https://i.imgur.com/TfgoFMil.png)
 
