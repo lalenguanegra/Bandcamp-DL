@@ -9,6 +9,10 @@ Try iOS Shortcut
 
 #!/bin/bash
 
+#cmd
+
+bash bandcamp.sh
+
 ![bin/bash](https://i.ytimg.com/vi/GdiqblQP7Vg/hqdefault.jpg?=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB_6Tdqp14njY0X-DlFNLaO2YSCZw)
 
 [Bandcamp.sh DEMO](https://www.youtube.com/watch?v=GdiqblQP7Vg)
@@ -16,6 +20,7 @@ Try iOS Shortcut
 PowerShell
 
 #cmd
+
 powershell -file "Bandcamp.ps1"
 
 [PowerShell DEMO](https://www.youtube.com/watch?v=sfj-E6jebYg)
