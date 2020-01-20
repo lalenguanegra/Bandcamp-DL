@@ -15,6 +15,9 @@ Try iOS Shortcut
 
 PowerShell
 
+#cmd
+powershell -file "Bandcamp.ps1"
+
 [PowerShell DEMO](https://www.youtube.com/watch?v=sfj-E6jebYg)
 
 ![PS1](https://i.imgur.com/TfgoFMil.png)
