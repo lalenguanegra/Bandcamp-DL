@@ -1,4 +1,5 @@
 # Bandcamp Script
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 [console]::WindowHeight=10;
 $link = Read-Host "Paste Your Link Here"
 (Invoke-WebRequest -Uri "$link").Content > mp3.txt
