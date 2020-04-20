@@ -1,0 +1,10 @@
+grep -o '"https://t4.bcbits.com/stream/[^"]*["},"]' html.txt | tr -d '"' > mp3.txt;
+rm html.txt;
+while read url; do wget -O $((++i)).mp3 "$url"; 
+done < mp3.txt;
+sed '1!G;h;$!d' filenames.txt > file.txt;
+rm filenames.txt;
+while read title; do mv $((i--)).mp3 "$title".mp3; 
+done < file.txt;
+rm file.txt;
+rm mp3.txt;
