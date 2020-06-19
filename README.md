@@ -5,7 +5,10 @@
 [iOS DEMO](https://www.youtube.com/watch?v=9dArUfQN-KI)
 
 Try iOS Shortcut
-[Here](https://www.reddit.com/user/MR_______ROBOT/comments/e7xlya/bandcamp_ios_shortcut/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+https://www.icloud.com/shortcuts/38f34305f0fa4f11963ae7f1e9c371b6
+
+https://www.icloud.com/shortcuts/7fbd15c6e9fb4cb3a1fb608d2209c8e8
 
 #!/bin/bash
 
