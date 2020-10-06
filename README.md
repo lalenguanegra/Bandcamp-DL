@@ -1,6 +1,6 @@
 # Bandcamp-DL
 
-![iOS](https://i.ytimg.com/vi/9dArUfQN-KI/hqdefault.jpg?=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA2qLhV8gCMwvA0_UXuVl1-Dvqp9A)
+![iOS](https://data.tooliphone.net/iskin/themes/21253/13479/preview-256.png)
 
 [iOS DEMO](https://www.youtube.com/watch?v=9dArUfQN-KI)
 
@@ -16,7 +16,7 @@ https://www.icloud.com/shortcuts/7fbd15c6e9fb4cb3a1fb608d2209c8e8
 
 bash bandcamp.sh
 
-![bin/bash](https://i.ytimg.com/vi/GdiqblQP7Vg/hqdefault.jpg?=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB_6Tdqp14njY0X-DlFNLaO2YSCZw)
+![bin/bash](https://ih1.redbubble.net/image.625377845.4942/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg)
 
 [Bandcamp.sh DEMO](https://www.youtube.com/watch?v=GdiqblQP7Vg)
 
