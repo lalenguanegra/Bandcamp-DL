@@ -16,7 +16,7 @@ https://www.icloud.com/shortcuts/7fbd15c6e9fb4cb3a1fb608d2209c8e8
 
 bash bandcamp.sh
 
-![bin/bash](https://ih1.redbubble.net/image.625377845.4942/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg)
+![bin/bash](https://i.ibb.co/rmYGJ3j/bash.jpg)
 
 [Bandcamp.sh DEMO](https://www.youtube.com/watch?v=GdiqblQP7Vg)
 
