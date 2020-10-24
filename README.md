@@ -2,8 +2,6 @@
 
 ![iOS](https://data.tooliphone.net/iskin/themes/21253/13479/preview-256.png)
 
-[iOS DEMO](https://www.youtube.com/watch?v=9dArUfQN-KI)
-
 Try iOS Shortcut
 
 https://www.icloud.com/shortcuts/38f34305f0fa4f11963ae7f1e9c371b6
@@ -18,15 +16,13 @@ bash bandcamp.sh
 
 ![bin/bash](https://i.ibb.co/rmYGJ3j/bash.jpg)
 
-[Bandcamp.sh DEMO](https://www.youtube.com/watch?v=GdiqblQP7Vg)
+[Bandcamp.sh DEMO](https://www.bitchute.com/video/LQcOLIXPEtSb/)
 
 PowerShell
 
 #cmd
 
 powershell -file "Bandcamp.ps1"
-
-[PowerShell DEMO](https://www.youtube.com/watch?v=sfj-E6jebYg)
 
 ![PS1](https://i.imgur.com/TfgoFMil.png)
 
